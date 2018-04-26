@@ -1,22 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: April 25, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Started The Complete Web Developers Course on Udemy, Began to set up my free webhosting offered with the course, Chunky Monkey exercise Basic Algorithm Scripting freeCodecamp
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Didn't realize I needed to set up a webhosting account before starting on the course so waiting on that. Luckily, it is included free for 1 year with the course. As far as my algorithm practice went, errrrr I am really struggling with them. I had to look up the answer so I decided this time around I would comment the explanation in while typing the code out within SubLime.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to work:** https://www.freecodecamp.org/challenges/chunky-monkey
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
 ### Day 1: June 27, Monday
