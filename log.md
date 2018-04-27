@@ -11,12 +11,11 @@
 
 
 
-### Day 1: June 27, Monday
+### Day 1: April 26, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Worked on 3 challenges with freeCodeCamp in the Basic Algorithm Scripting. Almost done with that section!
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: Boy do I feel like sometimes I am just not fully gasping this. My first challenge I figured out right away. The last 2 I had to see the answer then try to understand how it worked. I am currently trying to understand why === had a -1 behinf it.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**:https://www.freecodecamp.org/challenges/seek-and-destroy
+
